@@ -1,18 +1,17 @@
-# Bank_Management_system-using-C
 # Bank Management system
 This Bank Management System allows you to manage bank accounts, including creating new accounts, depositing money, withdrawing money, and displaying account details. It is implemented in C.
 # Features
---Account Creation: Add new bank accounts with account number, account holder name, and starting deposit.
---Deposit Operations: Credit funds to an account with instant balance updates.
---Withdrawal Operations: Debit funds with real-time balance validation to prevent overdrafts.
---Record Display: List registered account profiles and their current balances.
---Zero External Dependencies: Built purely using the C standard library (stdio.h, stdlib.h, string.h).
+-- Account Creation: Add new bank accounts with account number, account holder name, and starting deposit.
+-- Deposit Operations: Credit funds to an account with instant balance updates.
+-- Withdrawal Operations: Debit funds with real-time balance validation to prevent overdrafts.
+-- Record Display: List registered account profiles and their current balances.
+-- Zero External Dependencies: Built purely using the C standard library (stdio.h, stdlib.h, string.h).
 # How to Install Required Modules
 No special installation is required as this program only uses standard C libraries, which are included in any standard C compiler.
 # Required Modules
-Standard C library (<stdio.h>)
-Standard library (<stdlib.h>)
-String library (<string.h>)
+-- Standard C library (<stdio.h>)
+-- Standard library (<stdlib.h>)
+-- String library (<string.h>)
 # Output
 Bank Management System
 1. Create Account
