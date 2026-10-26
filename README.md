@@ -1,5 +1,5 @@
 # Bank Management system
-This Bank Management System allows you to manage bank accounts, including creating new accounts, depositing money, withdrawing money, and displaying account details. It is implemented in C.
+This Bank Management System allows you to manage bank accounts, including creating new accounts, depositing money, withdrawing money, and displaying account details. It is implemented in C with some frontend of HTML, JSON, CSS.
 # Preview
 https://realistic-bank-hub.preview.emergentagent.com/
 # Features
